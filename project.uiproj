@@ -1,0 +1,6 @@
+{
+  "Name": "BasicAutomation_LalitKumar",
+  "ProjectType": "Process",
+  "Description": "Basic UiPath workflow created by Lalit Kumar",
+  "MainFile": "Main.xaml"
+}
